@@ -17,9 +17,11 @@ Folgende features hat der html-Kalender:
 
     Entwickler / Designer: Christoph Weißenbäck
 
-Weitere Ressourcen: <a href="https://kalender2017.de/">Kalender 2017</a>
+Weitere Ressourcen: <a href="https://kalender2017.de/" rel="nofollow">Kalender 2017</a>
 (für Deutschland)
- / Kalender-Api: <a href="http://holidayapi.com/">Ferientage</a>
+ / Kalender-Api: <a href="http://holidayapi.com/" rel="nofollow">Ferientage</a>
 (Holidayapi.com)
+
+update für 2018: <a href="https://kalender-2018.de">Website Kalender 2018</a>
 
 Lizenzbedingungen siehe license.txt
